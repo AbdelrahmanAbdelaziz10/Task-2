@@ -118,13 +118,16 @@
 }
 }
 @media only screen and (max-width:600px){
+    .nav .logo{
+        margin-left: 2px !important;
+    }
     .nav ul{
         padding-left: 16px !important;
         width: 80% !important;
         padding-top: 0 !important;
     }
     .head{
-        height: 55vh;
+        height: 55vh !important;
     }
     .nav li{
         padding-right: 7px !important;
@@ -170,10 +173,10 @@
     }
 
     .left{
-        width: 100%;
+        width: 100% !important;
     }
     .right{
-        width: 100%;
+        width: 100% !important;
     }
     .right h2{
         font-size: 1.5rem;
@@ -190,7 +193,7 @@
         padding: 15px 0;
     }
     .lef {
-        width: 100%;
+        width: 100% !important;
     }
     .lef h2{
         font-size: 1.5rem;
@@ -200,10 +203,10 @@
         font-size: 1.04em;
     }
     .rig{
-        width: 100%;
+        width: 100% !important;
     }
     .item{
-        width: 100%;
+        width: 100% !important;
     }
     .item h3{
         font-size: 22px;
