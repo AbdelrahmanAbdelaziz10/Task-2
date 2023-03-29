@@ -7,7 +7,7 @@ img{
     width: 100%;
 }
 .container{
-    width: 85%;
+    width: 94%;
     margin: auto;
 }
 .p-70{
@@ -41,7 +41,6 @@ ul{
 ul li{
     margin: 20px 0;
 }
-
 .head{
     background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
@@ -110,6 +109,7 @@ ul li{
     width: 18%;
     float: left;
     padding: 16px 0;
+    padding-left: 2%;
 }
 
 .nav ul{
