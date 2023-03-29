@@ -1,0 +1,291 @@
+
+
+@media only screen and (max-width:768px){
+    .nav ul{
+        padding-left: 4px !important;
+        
+    }
+    .nav li{
+        padding-right: 20px !important;
+    }
+    .head .chil{
+        width: 100%;
+    }
+    .head .chil p{
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+    .btn{
+        padding: 16px 20px;
+        font-size: 14px;
+
+    }
+    .head .chil h1{
+        font-size: 34px !important;
+        margin-bottom: 18px;
+        line-height: 1.2em;
+    }
+
+    .left {
+        margin-top: 9%;
+    }
+    .lef {
+        margin-top: 0%;
+    }
+    .rig {
+        margin-top: 10%;
+    }
+    .informationn {
+        width: 50%;
+    }
+    .formm{
+        width: 50%;
+    }
+    .header{
+        width: 100%;
+    }
+    .header .text{
+        font-size: 56px;
+    }
+    .Contact .form h2{
+        font-size: 1.2rem;
+    }
+    .Contact .information h2{
+        font-size: 1.2rem;
+    }
+    .Contact .information p {
+        line-height: 1.86em;
+        margin-bottom: 20px;
+    }
+    .pr{
+        font-size: 15px;
+        font-weight: 530;
+    }
+    .footer{
+        font-size: 17px;
+    }
+    .footer .item{
+        width: 48%;
+        font-size: 16px;
+    }
+    .footer .item h3{
+        font-size: 18px;
+        margin-bottom: 7px;
+    }
+    .footer .item p{
+        font-size: 16px;
+        margin: 8px 0;
+    }
+    .end p{
+        font-size:19px ;
+    }
+    h2{
+        font-size: 1.2rem;
+        line-height: 1.38em;
+    }
+    .icon{
+    border-radius: 47%;
+    }
+/*About*/
+    .p-70{
+        padding: 40px 0;
+    }
+    h3 {
+        font-size: 18px;
+        padding: 8px 0;
+    }
+    .header .text h1{
+        font-size: 56px;
+    }
+    .header .text p{
+        font-size: 18px;
+    }
+    .right {
+        margin-top: 0%;
+    }
+    .number {
+        width: 49%;
+    }
+    .footer .item ul li {
+        padding: 0%;
+    }
+    ul li {
+        margin: 12px 0;
+    }
+
+.container{
+    width: 90%;
+}
+}
+@media only screen and (max-width:600px){
+    .nav ul{
+        padding-left: 16px !important;
+        width: 80% !important;
+        padding-top: 0 !important;
+    }
+    .head{
+        height: 55vh;
+    }
+    .nav li{
+        padding-right: 7px !important;
+    }
+    .nav li a{
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+    .head .chil h1{
+        font-size: 34px !important;
+    }
+    .head .chil p{
+        font-size: 16px !important;
+    }
+    .btn{
+        font-size: 14px;
+        padding: 17px 13px;
+    }
+
+    .Contact .form{
+        width: 100% !important;
+    }
+    .container{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .Contact .form .colm-w{
+        width: 100% !important;}
+
+    .Contact .form .col input{
+        width: 99%;
+    }
+    .Contact .form .col textarea{
+        width: 100% !important;
+        height: 170px;
+    }
+    .information{
+        width: 100% !important;
+    }
+    .footer .item{
+        width: 100% !important;
+        font-size: 16px;
+    }
+
+    .left{
+        width: 100%;
+    }
+    .right{
+        width: 100%;
+    }
+    .right h2{
+        font-size: 1.5rem;
+        margin-top: 15px;
+    }
+    .right p{
+        font-size: 1.04em;
+    }
+    .child{
+        width: 100% ;
+    }
+    .number{
+        width: 100% !important;
+        padding: 15px 0;
+    }
+    .lef {
+        width: 100%;
+    }
+    .lef h2{
+        font-size: 1.5rem;
+        margin-top: 15px;
+    }
+    .lef p{
+        font-size: 1.04em;
+    }
+    .rig{
+        width: 100%;
+    }
+    .item{
+        width: 100%;
+    }
+    .item h3{
+        font-size: 22px;
+        padding: 15px;
+    }
+    .item p{
+        font-size: 17px;
+    }
+    .informationn{
+        width: 100% !important;
+    }
+    .formm{
+        width: 100% !important;
+    }
+
+}
+@media only screen and (max-width:1024px) {
+    .nav ul{
+        padding: left 7px !important;;
+    }
+    .footer .item{
+        width: 48%;
+        font-size: 16px;
+    }
+    .footer .item h3{
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .footer .item p{
+        font-size: 16px;
+        line-height: 1.86em;
+        margin-bottom: 20px;
+    }
+    .end p{
+        font-size:19px ;
+    }
+    h2{
+        font-size: 1.2rem;
+        line-height: 1.38em;
+    }
+    .icon{
+    border-radius: 47%;
+    }
+    .p-70{
+        padding: 50px 0;
+    }
+    .right {
+        margin-top: 0%;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    .number {
+        width: 49%;
+    }
+    .informationn {
+        width: 50%;
+    }
+    .formm{
+        width: 50%;
+    }
+    .left {
+        margin-top: 9%;
+    }
+    .lef {
+        margin-top: 0%;
+    }
+    .rig {
+        margin-top: 10%;
+    }
+    .head .chil h1{
+        font-size: 34px !important;
+    }
+    .head .chil p{
+        font-size: 24px;
+    }
+    .btn{
+        padding: 19px 28px;
+    }
+    .chil{
+        width: 100%;
+    }
+
+}
+
